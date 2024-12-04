@@ -1,0 +1,12 @@
+com\arquiteturaWeb\provaAv2\service\TaskService.class
+com\arquiteturaWeb\provaAv2\config\JwtUtil.class
+com\arquiteturaWeb\provaAv2\controller\AuthController.class
+com\arquiteturaWeb\provaAv2\model\Task.class
+com\arquiteturaWeb\provaAv2\config\SecurityConfig.class
+com\arquiteturaWeb\provaAv2\controller\TaskController.class
+com\arquiteturaWeb\provaAv2\repository\UserRepository.class
+com\arquiteturaWeb\provaAv2\service\AuthService.class
+com\arquiteturaWeb\provaAv2\config\SwaggerConfig.class
+com\arquiteturaWeb\provaAv2\model\User.class
+com\arquiteturaWeb\provaAv2\ProvaAv2Application.class
+com\arquiteturaWeb\provaAv2\repository\TaskRepository.class

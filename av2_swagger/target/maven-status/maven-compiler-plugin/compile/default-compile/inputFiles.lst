@@ -1,0 +1,13 @@
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\config\JwtAuthFilter.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\config\JwtUtil.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\config\SecurityConfig.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\config\SwaggerConfig.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\controller\AuthController.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\controller\TaskController.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\model\Task.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\model\User.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\ProvaAv2Application.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\repository\TaskRepository.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\repository\UserRepository.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\service\AuthService.java
+C:\Users\Pichau\Downloads\av2_swagger\src\main\java\com\arquiteturaWeb\provaAv2\service\TaskService.java
